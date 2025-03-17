@@ -1,0 +1,13 @@
+# Core dependencies
+mcp-python>=0.1.0
+fastapi>=0.104.0
+uvicorn>=0.23.2
+ollama>=0.1.5
+requests>=2.31.0
+
+# Development dependencies
+pytest>=7.4.0
+pytest-cov>=4.1.0
+mypy>=1.5.1
+ruff>=0.1.0
+isort>=5.12.0 
